@@ -1,0 +1,20 @@
+h1
+{
+    text-align: center;
+color: blue;
+background-color: antiquewhite;
+font-size: 3.0em;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+p{
+    color: beige;
+    background-image: url('https://t4.ftcdn.net/jpg/06/23/51/33/360_F_623513339_6aCi0QCatsTlrPiRibFxCTMusumNiCf0.jpg');
+}
+img
+{
+    width: 400px;
+    height: 200px;
+    float: right;
+    border-radius: 50%;
+}
